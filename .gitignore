@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# VS Code Specific
+.vscode
+
+# Taget Build Folder
+build

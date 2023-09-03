@@ -12,5 +12,4 @@
 int main(int argc, char const *argv[]) {
   printf("******** TEST PROG ********\n");
   return 0;
-  
 }
